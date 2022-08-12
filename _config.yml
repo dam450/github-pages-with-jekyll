@@ -12,3 +12,8 @@ github_username:  dam450 # DO NOT include the @ character, or else the build wil
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+
+# Minima date format
+minima:
+  date_format: "%Y-%m-%d"
+
